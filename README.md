@@ -8,6 +8,7 @@ The data includes more than 1 million tweets on Twitter written in English, with
 * fla: query
 * user: the username of the account uploading the tweet
 * text: the content of the tweet
+
 Due to the grand size of the spreadsheet file, it is unable to upload on Github. Here is the Kaggle link of the data: https://www.kaggle.com/datasets/kazanova/sentiment140
 ## Workflow:
 1. Import the data
